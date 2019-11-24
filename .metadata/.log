@@ -1,0 +1,5298 @@
+!SESSION 2019-11-24 20:44:36.671 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/runner
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:44:54.142
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:44:54.989
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:44:55.211
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:44:55.213
+!MESSAGE Initializing Java Language Server 0.21.0.201806152234
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:44:55.488
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:44:56.146
+!MESSAGE Creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:44:59.255
+!MESSAGE Finished creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:20.154
+!MESSAGE Importing Eclipse project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:20.263
+!MESSAGE Workspace initialized in 24993ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:20.379
+!MESSAGE >> java/buildWorkspace (full)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:20.576
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:29.307
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.675
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.763
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.767
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.771
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.775
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.776
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.777
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.896
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.955
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.959
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.963
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.968
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.972
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.975
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:37.976
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.076
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.083
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.084
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.091
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.093
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.175
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.182
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.265
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.281
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.356
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.460
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.467
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.477
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.589
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.771
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.790
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.791
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.855
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.867
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:38.977
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.162
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.262
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.276
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.388
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.394
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.396
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.405
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.461
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.559
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.597
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.604
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.656
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.671
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.682
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:39.691
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:44.289
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:44.290
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:44.361
+!MESSAGE Reconciled 0, validated: 1. Took 6892 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:45:44.671
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2019-11-24 20:45:48.361
+!MESSAGE Error occured while building workspace. Details: 
+message: Game cannot be resolved to a type;code: 16777218
+message: Syntax error on token "}", delete this token;code: 1610612968
+message: Syntax error, insert "}" to complete ClassBody;code: 1610612976
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:46:38.675
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:46:39.310
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:46:42.732
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:46:42.993
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:46:43.855
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:46:57.456
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:46:59.751
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:00.307
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:00.674
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:01.117
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:01.583
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:02.945
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:04.043
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:04.044
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:04.045
+!MESSAGE Reconciled 0, validated: 1. Took 631 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:04.733
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:05.486
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:05.641
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:05.641
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:05.728
+!MESSAGE Reconciled 0, validated: 1. Took 510 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:05.847
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:05.894
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:06.430
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:06.794
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:08.301
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:08.301
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:08.315
+!MESSAGE Reconciled 0, validated: 1. Took 2044 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:08.385
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:08.551
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:09.267
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:11.049
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:11.049
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:11.207
+!MESSAGE Reconciled 0, validated: 1. Took 1524 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:11.260
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:11.455
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:11.497
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:12.004
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:12.004
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:12.013
+!MESSAGE Reconciled 0, validated: 1. Took 283 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:12.190
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:13.018
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:13.528
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:14.163
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:15.119
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:15.817
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:16.458
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:16.963
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:17.219
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:19.207
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:19.596
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:19.596
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:19.639
+!MESSAGE Reconciled 0, validated: 1. Took 2265 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:19.644
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:21.461
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:21.462
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:21.472
+!MESSAGE Reconciled 0, validated: 1. Took 1422 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:50.204
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:50.253
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:50.387
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:50.389
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:50.635
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:52.920
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:52.921
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:53.148
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:53.149
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:53.149
+!MESSAGE Reconciled 0, validated: 2. Took 2292 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:57.984
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:58.145
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:47:58.408
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:03.617
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:23.719
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:23.956
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:24.136
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:24.446
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:25.011
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:25.762
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:26.371
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:27.234
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:28.301
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:30.320
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:30.734
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:31.136
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:31.627
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:32.775
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:34.219
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:35.271
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:35.426
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:35.848
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:37.491
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:37.790
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:38.223
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:39.210
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:39.309
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:39.619
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:39.625
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:39.745
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:40.884
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:40.884
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:41.114
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:41.115
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:41.155
+!MESSAGE Reconciled 0, validated: 2. Took 1526 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:41.176
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:41.221
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:41.225
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:41.241
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:41.301
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:42.219
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:42.661
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:42.661
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:43.180
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:43.204
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:43.215
+!MESSAGE Reconciled 0, validated: 2. Took 1546 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:43.232
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:43.233
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:43.239
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:44.860
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:44.861
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:45.318
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:45.319
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:48:45.319
+!MESSAGE Reconciled 0, validated: 2. Took 1676 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:08.019
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:08.239
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:08.442
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:08.614
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:08.860
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:09.534
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:09.794
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:10.447
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:10.776
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:10.776
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:10.889
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:10.889
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:10.907
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:10.932
+!MESSAGE Reconciled 0, validated: 2. Took 983 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:11.094
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:11.327
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:12.276
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:12.277
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:12.481
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:12.482
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:12.500
+!MESSAGE Reconciled 0, validated: 2. Took 1002 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:50.783
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:50.863
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:54.428
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:54.474
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:54.510
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:54.671
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:54.929
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:56.633
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:56.633
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:56.814
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:56.822
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:56.931
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:56.931
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:49:56.934
+!MESSAGE Reconciled 0, validated: 3. Took 1601 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:51:02.780
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:51:02.893
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:51:03.758
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:51:05.736
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:47.881
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:48.034
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:49.409
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:50.017
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:50.092
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:50.352
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:52.083
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:52.282
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:52.550
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:53.132
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:53.897
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:53.898
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:54.660
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:54.663
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:54.953
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:54.985
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:54.995
+!MESSAGE Reconciled 0, validated: 3. Took 2292 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:55.072
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:56.221
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:56.222
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:56.368
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:56.368
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:56.985
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:56.999
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 20:52:57.000
+!MESSAGE Reconciled 0, validated: 3. Took 1523 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:08.824
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:08.956
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:14.433
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:16.138
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:16.760
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:16.862
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:16.863
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:16.975
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:16.976
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:17.157
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:17.158
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:17.165
+!MESSAGE Reconciled 0, validated: 3. Took 624 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:17.168
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:17.989
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:17.989
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.163
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.164
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.268
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.271
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.283
+!MESSAGE Reconciled 0, validated: 3. Took 715 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.475
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.665
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.673
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.676
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.677
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.678
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.686
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.688
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.757
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.759
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.761
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:18.855
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:19.170
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.268
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.268
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.370
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.466
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.467
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.568
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.568
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.586
+!MESSAGE Reconciled 0, validated: 3. Took 1231 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.588
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.592
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.593
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.594
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.660
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.663
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.665
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.669
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:20.755
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.265
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.380
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.384
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.555
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.555
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.656
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.657
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.764
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.765
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.765
+!MESSAGE Reconciled 0, validated: 3. Took 686 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.767
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.768
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.769
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.895
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.954
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.962
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.975
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:21.985
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:22.056
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:22.357
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:23.065
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:23.067
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:23.369
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:23.376
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:23.376
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:23.567
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:23.568
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:23.568
+!MESSAGE Reconciled 0, validated: 3. Took 1110 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:24.355
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:24.575
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:25.167
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:25.167
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:25.379
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:25.379
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:25.476
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:25.568
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:25.568
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:25.569
+!MESSAGE Reconciled 0, validated: 3. Took 811 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:25.676
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:25.677
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:26.588
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:26.755
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:26.757
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.063
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.064
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.184
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.186
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.279
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.281
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.283
+!MESSAGE Reconciled 0, validated: 3. Took 1098 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.290
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.294
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.295
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.297
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.298
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.299
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.377
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.386
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.391
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.492
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:27.727
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:28.260
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:28.697
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:28.698
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:28.907
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:28.907
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:28.980
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:28.980
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:28.981
+!MESSAGE Reconciled 0, validated: 3. Took 846 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:28.996
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.178
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.500
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.500
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.568
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.577
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.689
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.689
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.855
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.856
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.860
+!MESSAGE Reconciled 0, validated: 3. Took 1401 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.862
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.866
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.871
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.881
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.887
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.961
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:30.972
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:31.009
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:31.571
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:31.571
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:31.805
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:31.805
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:31.865
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:31.886
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:31.887
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:31.888
+!MESSAGE Reconciled 0, validated: 3. Took 598 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:32.264
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:32.530
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:32.586
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:33.270
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:33.270
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:33.364
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:33.365
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:33.384
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:33.384
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:33.385
+!MESSAGE Reconciled 0, validated: 3. Took 394 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:33.676
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:33.701
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:33.962
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:33.963
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:34.057
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:34.157
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:34.165
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:34.316
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:34.572
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:34.856
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:34.965
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:34.965
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.062
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.063
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.170
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.171
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.172
+!MESSAGE Reconciled 0, validated: 3. Took 453 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.175
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.258
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.260
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.261
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.366
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.451
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.476
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.493
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.566
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:35.755
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.060
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.464
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.466
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.589
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.660
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.693
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.694
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.695
+!MESSAGE Reconciled 0, validated: 3. Took 842 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.759
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.875
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.955
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.959
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.960
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.961
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.963
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:36.964
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:37.056
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:37.116
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:37.158
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:37.371
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:37.456
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:37.472
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:37.755
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.356
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.372
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.372
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.469
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.470
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.589
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.590
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.591
+!MESSAGE Reconciled 0, validated: 3. Took 684 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.662
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.664
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.756
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.760
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.773
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.856
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:38.978
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:39.157
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:39.372
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:39.881
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:39.881
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:40.188
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:40.273
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:40.273
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:40.494
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:40.495
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:40.583
+!MESSAGE Reconciled 0, validated: 3. Took 972 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:44.599
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:46.441
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:48.103
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:48.777
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:48.777
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:48.857
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:48.857
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:48.872
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:48.873
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:48.874
+!MESSAGE Reconciled 0, validated: 3. Took 318 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:49.376
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:49.383
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.163
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.163
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.356
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.357
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.372
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.372
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.373
+!MESSAGE Reconciled 0, validated: 3. Took 545 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.667
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.884
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.888
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.907
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.910
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.918
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.968
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:50.971
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:51.158
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:51.217
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:51.259
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:51.581
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:51.838
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:51.919
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:52.179
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:52.559
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:52.567
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:52.567
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:52.660
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:52.661
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:52.679
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:52.679
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:52.680
+!MESSAGE Reconciled 0, validated: 3. Took 358 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:52.781
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:52.801
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:52.980
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:53.243
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:53.270
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:54.135
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:54.249
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:54.252
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:54.393
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:54.393
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:54.479
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:54.479
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:54.480
+!MESSAGE Reconciled 0, validated: 3. Took 800 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:54.484
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:54.556
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:55.115
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:55.172
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:55.173
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:55.428
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:55.429
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:55.497
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:55.497
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:55.500
+!MESSAGE Reconciled 0, validated: 3. Took 522 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:55.502
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:56.168
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:56.169
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:56.254
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:56.256
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:56.288
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:56.288
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:56.289
+!MESSAGE Reconciled 0, validated: 3. Took 385 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:56.356
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:56.375
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:56.379
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:56.398
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:56.399
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:56.866
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:57.355
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:57.356
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:57.464
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:57.465
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:57.489
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:57.490
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:57.490
+!MESSAGE Reconciled 0, validated: 3. Took 572 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:57.560
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:58.366
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:58.366
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:58.465
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:58.465
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:58.483
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:58.483
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:58.558
+!MESSAGE Reconciled 0, validated: 3. Took 588 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:59.149
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:59.176
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:59.177
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:59.180
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:59.183
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:59.200
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:59.210
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:59.221
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:59.257
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:59.261
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:59.262
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:59.266
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:59.361
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:00:59.473
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:00.022
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:00.023
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:00.523
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:00.526
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:00.529
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:00.608
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:00.608
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:00.609
+!MESSAGE Reconciled 0, validated: 3. Took 940 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:00.710
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:00.748
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:00.935
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:00.997
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:01.155
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:01.286
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:01.457
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:01.757
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:02.172
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:02.276
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:02.276
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:02.567
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:02.567
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:02.666
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:02.666
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:02.668
+!MESSAGE Reconciled 0, validated: 3. Took 802 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:02.669
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:02.675
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:02.681
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:02.757
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:02.990
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:03.456
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:03.592
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:03.592
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:03.792
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:03.793
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:03.873
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:03.873
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:03.876
+!MESSAGE Reconciled 0, validated: 3. Took 664 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:03.877
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:03.883
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:04.091
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:04.355
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:04.492
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:04.757
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:04.981
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:05.056
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:05.137
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:05.301
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:05.561
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:06.162
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:06.163
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:06.280
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:06.281
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:06.370
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:06.477
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:06.477
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:06.477
+!MESSAGE Reconciled 0, validated: 3. Took 774 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:06.489
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:06.773
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:06.779
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:07.259
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:07.556
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:07.557
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:07.662
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:07.662
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:07.681
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:07.681
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:07.688
+!MESSAGE Reconciled 0, validated: 3. Took 502 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:07.691
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:07.801
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:08.655
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:08.979
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:08.979
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:09.166
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:09.167
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:09.261
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:09.261
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:09.262
+!MESSAGE Reconciled 0, validated: 3. Took 1168 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:09.264
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:09.269
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:09.271
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:09.272
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:09.300
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:09.387
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:09.685
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:10.077
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:10.077
+!MESSAGE 3 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:10.187
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:10.188
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:10.273
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:10.275
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:10.277
+!MESSAGE Reconciled 0, validated: 3. Took 604 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:10.279
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:10.347
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:11.081
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:11.258
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:11.259
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:11.463
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:11.463
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:11.557
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:11.559
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:11.561
+!MESSAGE Reconciled 0, validated: 3. Took 881 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:11.566
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:11.568
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:11.572
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:11.864
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:12.155
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:12.457
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:12.568
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:12.568
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:12.685
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:12.685
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:12.784
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:12.784
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:12.790
+!MESSAGE Reconciled 0, validated: 3. Took 516 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:12.793
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:12.799
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:12.877
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:13.563
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:13.564
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:13.756
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:13.756
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:13.794
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:13.881
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:13.968
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:13.968
+!MESSAGE Reconciled 0, validated: 3. Took 769 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:13.972
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:13.996
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:14.197
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:14.673
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:14.674
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:14.876
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:14.878
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:14.878
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:15.060
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:15.060
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:15.064
+!MESSAGE Reconciled 0, validated: 3. Took 614 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:15.800
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:16.764
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:16.764
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:16.787
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:16.787
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:16.875
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:16.875
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:16.876
+!MESSAGE Reconciled 0, validated: 3. Took 656 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:17.689
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:17.879
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:17.912
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:18.178
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:18.578
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:18.839
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:19.362
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:19.363
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:19.417
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:19.417
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:19.476
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:19.476
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:19.478
+!MESSAGE Reconciled 0, validated: 3. Took 497 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:19.521
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:19.786
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:19.981
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:20.137
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:21.479
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:21.563
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:21.820
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:22.554
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:24.182
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:25.933
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:26.306
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:26.709
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:27.011
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:53.541
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:53.993
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:55.918
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:56.383
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:56.780
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:56.785
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:56.906
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:56.916
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:56.967
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:56.968
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:56.968
+!MESSAGE Reconciled 0, validated: 3. Took 646 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:57.899
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:57.899
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:58.077
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:58.082
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:58.135
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:58.187
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:58.187
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:58.191
+!MESSAGE Reconciled 0, validated: 3. Took 817 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:58.197
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:59.158
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:59.158
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:59.853
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:01:59.877
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:00.073
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:00.227
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:00.227
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:00.228
+!MESSAGE Reconciled 0, validated: 3. Took 1595 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:00.832
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:00.848
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:00.858
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:00.859
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:01.103
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:01.374
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:01.762
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:01.762
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:02.084
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:02.084
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:02.176
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:02.176
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:02.187
+!MESSAGE Reconciled 0, validated: 3. Took 926 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:02.210
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:02.230
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:02.951
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:02.951
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:03.032
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:03.050
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:03.051
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:03.201
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:03.201
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:03.204
+!MESSAGE Reconciled 0, validated: 3. Took 593 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:03.220
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:03.291
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:03.818
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:03.818
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:03.919
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:03.919
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:04.089
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:04.089
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:04.131
+!MESSAGE Reconciled 0, validated: 3. Took 514 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:04.573
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:04.668
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:04.770
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:05.034
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:05.175
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:05.211
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:05.432
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:05.571
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:05.832
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:05.914
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:06.075
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:06.106
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:06.399
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:06.400
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:07.036
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:07.040
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:07.281
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:07.282
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:07.286
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:07.463
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:07.464
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:07.465
+!MESSAGE Reconciled 0, validated: 3. Took 987 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:07.470
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:07.988
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:07.994
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:08.102
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:08.103
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:08.169
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:08.170
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:08.198
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:08.199
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:08.200
+!MESSAGE Reconciled 0, validated: 3. Took 327 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:08.208
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:08.987
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:09.282
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:09.282
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:09.409
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:09.409
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:09.488
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:09.488
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:09.489
+!MESSAGE Reconciled 0, validated: 3. Took 832 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:09.495
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:09.973
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:09.976
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:09.979
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:10.267
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:10.268
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:10.300
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:10.301
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:10.371
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:10.371
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:10.373
+!MESSAGE Reconciled 0, validated: 3. Took 396 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:10.400
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:10.405
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:10.410
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:10.760
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:10.760
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:10.761
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:11.126
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:11.474
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:11.475
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:11.501
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:11.501
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:11.569
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:11.570
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:11.574
+!MESSAGE Reconciled 0, validated: 3. Took 409 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:11.576
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:11.592
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:11.807
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:12.393
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:12.393
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:12.466
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:12.466
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:12.570
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:12.571
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:12.572
+!MESSAGE Reconciled 0, validated: 3. Took 573 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:12.684
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:14.110
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:14.273
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:14.538
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:14.860
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:15.054
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:15.061
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:15.169
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:15.169
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:15.224
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:15.231
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:15.232
+!MESSAGE Reconciled 0, validated: 3. Took 556 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:15.256
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:15.259
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:15.273
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:15.484
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:15.979
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:15.980
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:16.123
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:16.123
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:16.197
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:16.197
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:16.197
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:16.197
+!MESSAGE Reconciled 0, validated: 3. Took 536 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:16.737
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:17.583
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:18.176
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:18.430
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:18.804
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:18.804
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:18.897
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:18.898
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:18.926
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:18.926
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:18.958
+!MESSAGE Reconciled 0, validated: 3. Took 379 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:19.005
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:21.211
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:21.610
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:23.310
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:23.697
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:24.955
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:25.817
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:26.130
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:26.389
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:26.554
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:26.896
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:27.163
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:27.369
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:27.387
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:27.387
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:27.474
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:27.477
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:27.506
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:27.506
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:27.508
+!MESSAGE Reconciled 0, validated: 3. Took 210 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:27.655
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:27.907
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:28.105
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:28.388
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:28.389
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:28.506
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:28.506
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:28.560
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:28.560
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:28.560
+!MESSAGE Reconciled 0, validated: 3. Took 495 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:28.564
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:28.667
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:28.858
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:29.127
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:29.385
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:29.556
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:29.785
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:30.057
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:30.169
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:30.456
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:30.709
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:30.827
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:31.092
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:31.347
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:31.496
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:31.912
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:31.913
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:31.984
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:31.984
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:32.134
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:32.134
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:32.170
+!MESSAGE Reconciled 0, validated: 3. Took 674 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:32.175
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:32.177
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:32.211
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:32.486
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:32.746
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:32.836
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:33.110
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:33.370
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:33.427
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:33.696
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:33.958
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:34.415
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:34.416
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:34.492
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:34.496
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:34.811
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:34.811
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:34.811
+!MESSAGE Reconciled 0, validated: 3. Took 712 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:35.047
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:35.251
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:35.559
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:35.992
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:36.247
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:37.241
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:37.376
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:37.465
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:37.723
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:38.091
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:38.091
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:38.163
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:38.163
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:38.189
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:38.189
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:38.254
+!MESSAGE Reconciled 0, validated: 3. Took 320 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:38.611
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:39.051
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:39.564
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:40.242
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:40.555
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:41.338
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:41.603
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:41.857
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:42.357
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:42.491
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:42.729
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:42.858
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:43.087
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:43.192
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:43.192
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:43.303
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:43.304
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:43.365
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:43.366
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:43.366
+!MESSAGE Reconciled 0, validated: 3. Took 467 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:43.788
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:43.882
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:44.126
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:44.247
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:44.523
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:44.663
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:44.764
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:44.765
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:44.796
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:44.796
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:44.871
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:44.871
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:44.871
+!MESSAGE Reconciled 0, validated: 3. Took 584 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:44.874
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:45.071
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:45.200
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:45.457
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:45.491
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:45.492
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:45.569
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:45.570
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:45.590
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:45.590
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:45.593
+!MESSAGE Reconciled 0, validated: 3. Took 269 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:45.856
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:45.977
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:46.196
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:46.391
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:46.589
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:46.589
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:46.658
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:46.658
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:46.676
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:46.681
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:46.681
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:46.681
+!MESSAGE Reconciled 0, validated: 3. Took 302 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:46.703
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:46.832
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:47.091
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:47.255
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:47.458
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:47.459
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:47.476
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:47.476
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:47.492
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:47.493
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:47.493
+!MESSAGE Reconciled 0, validated: 3. Took 259 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:47.560
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:47.857
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:47.969
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:48.255
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:48.354
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:48.655
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:48.758
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:48.762
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:48.766
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:48.805
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:48.805
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:48.876
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:48.877
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:48.877
+!MESSAGE Reconciled 0, validated: 3. Took 504 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:48.880
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:49.086
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:49.414
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:49.663
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:49.858
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:49.904
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:49.905
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:50.202
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:50.204
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:50.338
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:50.365
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:50.366
+!MESSAGE Reconciled 0, validated: 3. Took 1082 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:50.370
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:50.378
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:50.576
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:50.615
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:50.755
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:50.923
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:51.114
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:51.191
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:51.435
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:51.801
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:51.801
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:51.916
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:51.917
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:51.974
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:51.974
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:51.976
+!MESSAGE Reconciled 0, validated: 3. Took 334 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:52.056
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:52.575
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:52.772
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:54.850
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:55.110
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:55.261
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:55.421
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:55.671
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:55.971
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:55.972
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:55.989
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:55.989
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:56.055
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:56.055
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:56.056
+!MESSAGE Reconciled 0, validated: 3. Took 233 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:56.470
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:56.777
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:57.355
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:57.592
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:57.694
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:57.736
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:58.255
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:58.260
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:58.260
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:58.296
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:58.297
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:58.372
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:58.372
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:58.374
+!MESSAGE Reconciled 0, validated: 3. Took 236 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:58.400
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:58.665
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:59.669
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:59.756
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:02:59.818
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:00.075
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:00.672
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:00.672
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:00.763
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:00.764
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:00.788
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:00.788
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:00.793
+!MESSAGE Reconciled 0, validated: 3. Took 535 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:00.976
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:01.492
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:01.759
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:02.055
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:02.733
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:02.989
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:03.458
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:03.497
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:03.497
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:03.689
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:03.689
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:03.721
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:03.721
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:03.721
+!MESSAGE Reconciled 0, validated: 3. Took 535 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:03.723
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:03.877
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:03.878
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:03.879
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:03.956
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:04.170
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:04.697
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:04.697
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:04.788
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:04.788
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:04.863
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:04.863
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:04.864
+!MESSAGE Reconciled 0, validated: 3. Took 505 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:05.265
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:05.968
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:06.225
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:06.844
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:07.111
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:07.507
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:07.562
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:07.562
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:07.656
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:07.657
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:07.671
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:07.672
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:07.678
+!MESSAGE Reconciled 0, validated: 3. Took 431 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:07.680
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:07.759
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:07.771
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:07.809
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:07.970
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:08.256
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:08.267
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:08.293
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:08.367
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:08.440
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:08.697
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:08.777
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:08.948
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:08.983
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:08.993
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:09.203
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:09.233
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:09.247
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:09.358
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:09.384
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:09.414
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:09.615
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:09.975
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:09.975
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:10.063
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:10.064
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:10.158
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:10.158
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:10.160
+!MESSAGE Reconciled 0, validated: 3. Took 399 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:10.967
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:11.161
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:11.455
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:12.087
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:12.568
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:12.820
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:12.877
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:12.905
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:12.915
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:13.099
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:13.352
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:13.527
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:13.719
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:13.747
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:13.759
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:13.978
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:14.263
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:14.264
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:14.289
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:14.289
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:14.371
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:14.371
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:14.372
+!MESSAGE Reconciled 0, validated: 3. Took 251 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:15.953
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:16.152
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:16.876
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:17.039
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:17.874
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:17.990
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:18.152
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:18.359
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:18.463
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:18.724
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:19.080
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:19.081
+!MESSAGE 1 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:19.164
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:19.165
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:19.176
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:19.176
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:19.176
+!MESSAGE Reconciled 0, validated: 3. Took 262 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:19.287
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:19.695
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:19.929
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:20.357
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:20.357
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:20.385
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:20.386
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:20.464
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:20.466
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:20.468
+!MESSAGE Reconciled 0, validated: 3. Took 319 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:20.559
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:20.655
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:20.671
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:20.684
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:20.955
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:20.967
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:21.368
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:21.369
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:21.391
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:21.392
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:21.468
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:21.469
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:21.469
+!MESSAGE Reconciled 0, validated: 3. Took 309 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:21.471
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:21.477
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:21.478
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:21.496
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:21.675
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:21.800
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:22.070
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:22.070
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:22.085
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:22.085
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:22.183
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:22.184
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:22.184
+!MESSAGE Reconciled 0, validated: 3. Took 305 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:22.458
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:22.879
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:23.018
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:23.191
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:23.326
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:23.584
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:23.668
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:23.956
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.155
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.185
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.187
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.272
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.272
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.290
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.290
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.292
+!MESSAGE Reconciled 0, validated: 3. Took 220 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.296
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.362
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.386
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.495
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.581
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.607
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.619
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:24.858
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:25.156
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:25.179
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:25.179
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:25.268
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:25.268
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:25.357
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:25.358
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:25.361
+!MESSAGE Reconciled 0, validated: 3. Took 375 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:25.456
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:25.784
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:25.977
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:26.125
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:26.297
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:26.554
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:27.027
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:27.027
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:27.197
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:27.197
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:27.258
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:27.259
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:27.259
+!MESSAGE Reconciled 0, validated: 3. Took 561 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:27.423
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:27.448
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:27.500
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:27.520
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:27.667
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:28.004
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:28.005
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:28.088
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:28.584
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:28.584
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:28.708
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:28.709
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:28.806
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:28.855
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:28.856
+!MESSAGE Reconciled 0, validated: 3. Took 450 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:28.870
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:29.091
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:29.257
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:29.261
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:29.305
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:29.306
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:29.559
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:29.863
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:29.864
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:29.882
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:29.882
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:29.991
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:29.991
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:29.994
+!MESSAGE Reconciled 0, validated: 3. Took 283 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:30.385
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:30.613
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:31.014
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:31.274
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:31.407
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:31.437
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:31.446
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:31.587
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:31.675
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:31.743
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:31.775
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:31.808
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:32.003
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:32.398
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:32.399
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:32.512
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:32.512
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:32.604
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:32.604
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:32.623
+!MESSAGE Reconciled 0, validated: 3. Took 473 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:33.291
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:33.476
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:33.735
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:34.704
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:34.866
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:34.935
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:35.195
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:35.615
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:35.629
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:35.791
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:35.792
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:35.837
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:35.838
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:35.854
+!MESSAGE Reconciled 0, validated: 3. Took 372 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:35.913
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:36.157
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:36.455
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:37.214
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:37.341
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:37.603
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:37.730
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:37.877
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:37.877
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:37.892
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:37.893
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:37.985
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:38.003
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:38.003
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:38.004
+!MESSAGE Reconciled 0, validated: 3. Took 262 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:38.155
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:38.256
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:38.500
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:38.855
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:38.988
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:38.988
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.065
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.069
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.070
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.095
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.163
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.165
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.166
+!MESSAGE Reconciled 0, validated: 3. Took 459 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.280
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.559
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.741
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.871
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.871
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.889
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.889
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.904
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.904
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.956
+!MESSAGE Reconciled 0, validated: 3. Took 217 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:39.995
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:40.013
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:40.159
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:40.410
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:40.658
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:40.773
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:40.774
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:40.857
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:40.857
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:40.857
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:40.873
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:40.874
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:40.874
+!MESSAGE Reconciled 0, validated: 3. Took 313 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:40.895
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:41.005
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:41.265
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:41.408
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:41.496
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:41.496
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:41.574
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:41.574
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:41.661
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:41.677
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:41.677
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:41.678
+!MESSAGE Reconciled 0, validated: 3. Took 272 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:42.013
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:42.127
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:42.380
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:42.587
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:42.588
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:42.597
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:42.657
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:42.657
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:42.672
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:42.672
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:42.673
+!MESSAGE Reconciled 0, validated: 3. Took 144 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:42.848
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:43.059
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:43.130
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:43.389
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:43.578
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:43.578
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:43.592
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:43.592
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:43.663
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:43.664
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:43.664
+!MESSAGE Reconciled 0, validated: 3. Took 132 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:03:45.327
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:20.945
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:28.153
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:28.959
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:29.058
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:29.320
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:31.286
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:32.314
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:33.183
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:33.437
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:36.234
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:36.383
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:36.549
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:36.692
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:36.837
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:36.980
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:37.490
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:37.491
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:37.509
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:37.509
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:37.527
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:37.557
+!MESSAGE The operator + is undefined for the argument type(s) String is of type InvalidOperator
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:37.557
+!MESSAGE 1 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:37.561
+!MESSAGE Reconciled 0, validated: 3. Took 178 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:38.176
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:38.210
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:38.772
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:38.933
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:38.963
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.064
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.064
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.114
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.115
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.165
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.166
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.175
+!MESSAGE Reconciled 0, validated: 3. Took 597 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.257
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.289
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.675
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.767
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.769
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.774
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.965
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.965
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.984
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:39.984
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:40.057
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:40.060
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:40.065
+!MESSAGE Reconciled 0, validated: 3. Took 357 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:40.068
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:40.069
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:40.070
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:40.162
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:40.453
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:40.479
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:40.509
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:40.587
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:40.635
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:40.684
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:40.829
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:41.051
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:41.295
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:41.605
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:41.606
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:41.708
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:41.708
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:41.787
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:41.787
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:41.789
+!MESSAGE Reconciled 0, validated: 3. Took 336 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:42.477
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:42.749
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:42.907
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.277
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.278
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.388
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.389
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.518
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.518
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.519
+!MESSAGE Reconciled 0, validated: 3. Took 637 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.527
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.528
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.549
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.594
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.607
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.721
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.761
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:43.844
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:44.001
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:44.389
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:44.389
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:44.406
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:44.456
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:44.456
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:44.496
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:44.496
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:44.500
+!MESSAGE Reconciled 0, validated: 3. Took 355 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:44.511
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:44.615
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:44.682
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:44.982
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:44.993
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:45.055
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:45.055
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:45.080
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:45.080
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:45.083
+!MESSAGE Reconciled 0, validated: 3. Took 180 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:45.354
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:45.631
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:45.815
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.093
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.093
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.209
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.209
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.265
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.265
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.267
+!MESSAGE Reconciled 0, validated: 3. Took 476 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.272
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.300
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.301
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.382
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.456
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.523
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.674
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:46.897
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:47.283
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:47.283
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:47.401
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:47.401
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:47.448
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:47.448
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:47.466
+!MESSAGE Reconciled 0, validated: 3. Took 663 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:47.508
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:47.732
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:47.733
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:47.739
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:47.752
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:47.809
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:47.947
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:48.188
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:48.408
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:48.408
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:48.535
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:48.536
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:48.573
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:48.574
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:48.583
+!MESSAGE Reconciled 0, validated: 3. Took 440 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:48.585
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:48.610
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:48.611
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:48.613
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:48.656
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:48.910
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:49.261
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:49.261
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:49.277
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:49.278
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:49.355
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:49.355
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:49.356
+!MESSAGE Reconciled 0, validated: 3. Took 298 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:49.360
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:49.361
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:49.461
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:49.569
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:50.110
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:50.229
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:50.475
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:50.660
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:50.675
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:50.895
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:50.903
+!MESSAGE 1 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:50.914
+!MESSAGE Reconciled 0, validated: 3. Took 1149 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:50.956
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.017
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.027
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.028
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.028
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.181
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.214
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.486
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.694
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.694
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.756
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.766
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.767
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.790
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.790
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.793
+!MESSAGE Reconciled 0, validated: 3. Took 177 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:51.795
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.325
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.337
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.436
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.436
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.463
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.466
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.477
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.478
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.483
+!MESSAGE Reconciled 0, validated: 3. Took 284 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.484
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.485
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.485
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.486
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.486
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.555
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.619
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.763
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.989
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:52.989
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:53.056
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:53.056
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:53.112
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:53.112
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:53.112
+!MESSAGE Reconciled 0, validated: 3. Took 222 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:53.939
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:55.138
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:55.269
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:55.526
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:55.932
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:56.834
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:57.166
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:57.427
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:58.094
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:58.184
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:58.429
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:58.667
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:58.830
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:58.830
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:58.892
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:58.892
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:58.920
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:58.921
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:58.921
+!MESSAGE Reconciled 0, validated: 3. Took 332 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:58.923
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:59.087
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:59.240
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:04:59.496
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:00.121
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:00.121
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:00.182
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:00.182
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:00.560
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:00.561
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:00.561
+!MESSAGE Reconciled 0, validated: 3. Took 869 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:24.813
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:25.900
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:26.202
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:26.468
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:26.722
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:27.546
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:27.755
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:27.953
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:28.482
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:28.482
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:28.559
+!MESSAGE begin problem for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:28.559
+!MESSAGE 0 problems reported for /Game.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:28.611
+!MESSAGE begin problem for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:28.612
+!MESSAGE 0 problems reported for /Card.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-24 21:05:28.612
+!MESSAGE Reconciled 0, validated: 3. Took 456 ms
