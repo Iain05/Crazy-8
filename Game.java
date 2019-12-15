@@ -2,9 +2,9 @@ import java.util.*;
 
 public class Game {
 	public static Stack<Card> deck = new Stack<Card>();
-	public static Stack<Card> Pile = new Stack<Card>();
+	public static Stack<Card> pile = new Stack<Card>();
 	List<Player> players;
-	final int MAX_CARDS_PLAYER = 7;
+	int nCardsPerPlay = 7;
 
 	public Game () {
 		CreateDeck();
@@ -16,11 +16,23 @@ public class Game {
 
 		//hand out cards
 		HandOutCards();
-		Pile.push(deck.pop());
+		pile.push(deck.pop());
 
-		for (Player p : players) {
-			p.doTurn();
-		}
+
+		for(Card c : deck) {
+      		System.out.println(c.GetCardName());
+    	}
+
+    	while (true) {
+     		for(Player p : players) {
+        		p.doTurn();
+				if (p.cardsInHand.size() == 0) {
+          			System.out.println(p.name + " you win! ");
+            		return;
+       			 }
+      		}
+   		}
+
 		// for (Card c : deck) {
 		// 	System.out.println(c.GetCardName());
 		// }
@@ -46,7 +58,7 @@ public class Game {
 
 	void HandOutCards() {
 		for(Player p : players) { //for each loop
-			for (int i = 0; i <MAX_CARDS_PLAYER; i++) { // for loop
+			for (int i = 0; i <nCardsPerPlay; i++) { // for loop
 				Card topCard = deck.pop();
 				p.cardsInHand.add(topCard);
 			}

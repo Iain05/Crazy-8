@@ -4,6 +4,7 @@ class Main {
 
 	public static Random rand;
 	public static Scanner input;
+
 	public static HashMap<Integer, String> cardIdToName;
 
 	public static void main(String[] args) {
@@ -23,7 +24,7 @@ class Main {
 		cardIdToName.put(13, "King");
 		cardIdToName.put(14, "Ace");
 
-		input=new Scanner(System.in);
+		input = new Scanner(System.in);
 		rand = new Random();
 
 		new Game();

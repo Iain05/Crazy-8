@@ -16,9 +16,34 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>src/AIPlayer.java</name>
+			<type>1</type>
+			<location>//home/runner/AIPlayer.java</location>
+		</link>
+		<link>
+			<name>src/Card.java</name>
+			<type>1</type>
+			<location>//home/runner/Card.java</location>
+		</link>
+		<link>
+			<name>src/Game.java</name>
+			<type>1</type>
+			<location>//home/runner/Game.java</location>
+		</link>
+		<link>
+			<name>src/HumanPlayer.java</name>
+			<type>1</type>
+			<location>//home/runner/HumanPlayer.java</location>
+		</link>
+		<link>
 			<name>src/Main.java</name>
 			<type>1</type>
 			<location>//home/runner/Main.java</location>
+		</link>
+		<link>
+			<name>src/Player.java</name>
+			<type>1</type>
+			<location>//home/runner/Player.java</location>
 		</link>
 	</linkedResources>
 </projectDescription>
