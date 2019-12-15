@@ -5,7 +5,23 @@ public class AIPlayer extends Player {
 	
 	public void doTurn() {
 		super.doTurn();
-		System.out.print("The AI does it's turn here");
+		PlayCard();
+		
+		System.out.print(name + " has " + cardsInHand.size() + " cards left");
 		Main.input.nextLine();
 	}
+
+	 void PlayCard() {
+    for (Card c : cardsInHand)
+    {
+      if (TryPlayCard(c))
+      {
+        System.out.println(name + " played " + c.GetCardName());
+        return;
+      }
+    }
+
+    System.out.println(name + " picked a new card from the deck ");
+    GetCardFromDeck();
+  }
 }

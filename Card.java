@@ -2,14 +2,14 @@ class Card {
 	public int number;
 	public enum Suit {Hearts, Diamonds, Spades, Clubs}
 		
-	public Suit mySuit;
+	public Suit suit;
 
-	public Card(int number, Suit mySuit) {
-		this.number = number;
-		this.mySuit = mySuit;
+	public Card(int _number, Suit _suit) {
+		number = _number;
+		suit = _suit;
 	}
 
 	public String GetCardName() {
-		return Main.cardIdToName.get(number) + " of " + mySuit;
+		return Main.cardIdToName.get(number) + " of " + suit;
 	}
 }
